@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\nasindam\\Source\\Repos\\ConsoleApp\\ConsoleApp\\ConsoleAppPrep\\ConsoleAppPrep.csproj",
+      "projectUniqueName": "C:\\Users\\nasindam\\Source\\Repos\\ConsoleApp\\consoleapp\\ConsoleAppPrep\\ConsoleAppPrep.csproj",
       "projectName": "ConsoleAppPrep",
-      "projectPath": "C:\\Users\\nasindam\\Source\\Repos\\ConsoleApp\\ConsoleApp\\ConsoleAppPrep\\ConsoleAppPrep.csproj",
+      "projectPath": "C:\\Users\\nasindam\\Source\\Repos\\ConsoleApp\\consoleapp\\ConsoleAppPrep\\ConsoleAppPrep.csproj",
       "packagesPath": "C:\\Users\\nasindam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\nasindam\\Source\\Repos\\ConsoleApp\\ConsoleApp\\ConsoleAppPrep\\obj\\",
+      "outputPath": "C:\\Users\\nasindam\\Source\\Repos\\ConsoleApp\\consoleapp\\ConsoleAppPrep\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

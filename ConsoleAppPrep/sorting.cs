@@ -98,7 +98,52 @@ namespace ConsoleAppPrep
             int[] left = new int[l1];
             int[] right = new int[l2];
 
+            for(int i1=0; i1 < left.Length ;i1++)
+            {
+                left[i1] = A[p + i1];
+            }
 
+            for (int j1 = 0; j1 < right.Length; j1++)
+            {
+                right[j1] = A[mid + 1 + j1];
+            }
+
+            int i = 0;
+            int j = 0;
+            int k = p;
+
+            while(i<left.Length && j<right.Length)
+            {
+                if (left[i] < right[j])
+                {
+                    A[k] = left[i];
+                    i++;
+                }
+                else
+                {
+                    A[k] = right[j];
+                    j++;
+                }
+                k++;
+            }
+
+            while (i < left.Length)
+            {
+                
+                A[k] = left[i];
+                i++;
+                
+                k++;
+            }
+
+            while (i < left.Length && j < right.Length)
+            {
+                
+                A[k] = right[j];
+                j++;
+                
+                k++;
+            }
         }
     }
 }

@@ -9,3 +9,14 @@ c:\users\nasindam\Source\Repos\ConsoleAppPrep\ConsoleAppPrep\obj\Debug\netcoreap
 c:\users\nasindam\Source\Repos\ConsoleAppPrep\ConsoleAppPrep\obj\Debug\netcoreapp2.0\ConsoleAppPrep.AssemblyInfo.cs
 c:\users\nasindam\Source\Repos\ConsoleAppPrep\ConsoleAppPrep\obj\Debug\netcoreapp2.0\ConsoleAppPrep.dll
 c:\users\nasindam\Source\Repos\ConsoleAppPrep\ConsoleAppPrep\obj\Debug\netcoreapp2.0\ConsoleAppPrep.pdb
+C:\Users\nasindam\Source\Repos\ConsoleApp\consoleapp\ConsoleAppPrep\bin\Debug\netcoreapp2.0\ConsoleAppPrep.deps.json
+C:\Users\nasindam\Source\Repos\ConsoleApp\consoleapp\ConsoleAppPrep\bin\Debug\netcoreapp2.0\ConsoleAppPrep.runtimeconfig.json
+C:\Users\nasindam\Source\Repos\ConsoleApp\consoleapp\ConsoleAppPrep\bin\Debug\netcoreapp2.0\ConsoleAppPrep.runtimeconfig.dev.json
+C:\Users\nasindam\Source\Repos\ConsoleApp\consoleapp\ConsoleAppPrep\bin\Debug\netcoreapp2.0\ConsoleAppPrep.dll
+C:\Users\nasindam\Source\Repos\ConsoleApp\consoleapp\ConsoleAppPrep\bin\Debug\netcoreapp2.0\ConsoleAppPrep.pdb
+C:\Users\nasindam\Source\Repos\ConsoleApp\consoleapp\ConsoleAppPrep\obj\Debug\netcoreapp2.0\ConsoleAppPrep.csprojResolveAssemblyReference.cache
+C:\Users\nasindam\Source\Repos\ConsoleApp\consoleapp\ConsoleAppPrep\obj\Debug\netcoreapp2.0\ConsoleAppPrep.csproj.CoreCompileInputs.cache
+C:\Users\nasindam\Source\Repos\ConsoleApp\consoleapp\ConsoleAppPrep\obj\Debug\netcoreapp2.0\ConsoleAppPrep.AssemblyInfoInputs.cache
+C:\Users\nasindam\Source\Repos\ConsoleApp\consoleapp\ConsoleAppPrep\obj\Debug\netcoreapp2.0\ConsoleAppPrep.AssemblyInfo.cs
+C:\Users\nasindam\Source\Repos\ConsoleApp\consoleapp\ConsoleAppPrep\obj\Debug\netcoreapp2.0\ConsoleAppPrep.dll
+C:\Users\nasindam\Source\Repos\ConsoleApp\consoleapp\ConsoleAppPrep\obj\Debug\netcoreapp2.0\ConsoleAppPrep.pdb
