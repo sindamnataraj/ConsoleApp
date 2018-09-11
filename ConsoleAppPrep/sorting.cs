@@ -145,5 +145,31 @@ namespace ConsoleAppPrep
                 k++;
             }
         }
+
+        //All numbers in array A will be in Range of 0 - 9
+        // k = 10
+        public static void countingSort(int[] A)
+        {
+            int[] C = new int[10];
+
+            foreach (var item in A)
+            {
+                C[item]++;
+            }
+
+            for (int j = 1; j < C.Length; j++)
+            {
+                C[j] = C[j] + C[j - 1];
+            }
+
+            int[] B = new int[A.Length];
+            Array.Copy(A, B, A.Length);
+
+            for (int i = 0; i < B.Length; i++)
+            {
+                A[C[B[i]] - 1] = B[i];
+                C[B[i]]--;
+            }
+        }
     }
 }
